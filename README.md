@@ -4,8 +4,8 @@ Free and Open Source Software!
 
 Introduce
 ---------
-Name: LEE MYONGHWAN </br>
-Student number : 2016011249 </br>
-Major : China , Software </br>
-My interesting : Python, JS, Vue.js </br>
+Name: LEE MYONGHWAN  
+Student number : 2016011249  
+Major : China , Software  
+My interesting : Python, JS, Vue.js  
 Goal : Skillfully contribute to **china open source project** for improve my Chinese and programming skill.
