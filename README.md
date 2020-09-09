@@ -1,6 +1,6 @@
 Free and Open Source Software!
 ===========
->This page is made for **Open Source SW  basic lecture**
+>This page is made for **Open Source SW  basic lecture** 오픈소스 SW 기초 (CSE1019)
 
 Introduce
 ---------
