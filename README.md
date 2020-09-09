@@ -4,3 +4,7 @@ Free and Open Source Software!
 
 Introduce
 ---------
+Name: LEE MYONGHWAN </br>
+Student number : 2016011249 </br>
+Major : China , Software </br>
+Goal : Skillfully contribute to **china open source project** for improve my Chinese and programming skill.
